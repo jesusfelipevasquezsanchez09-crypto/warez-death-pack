@@ -1,9 +1,5 @@
 {
-  "version": "1.0.1",
-  "changelog": "- Nuevo mod: Sodium\n- Actualizado: Lithium",
-  "files": [
-    { "path": "mods/fabric-api-0.100.0+1.21.1.jar", "url": "https://TU_HOST/mods/fabric-api.jar", "sha1": "" },
-    { "path": "mods/sodium.jar", "url": "https://TU_HOST/mods/sodium.jar", "sha1": "" },
-    { "path": "config/warezdeath.json", "url": "https://TU_HOST/config/warezdeath.json", "overwrite": false }
-  ]
+  "version": "1.0.0",
+  "changelog": "Primera versión",
+  "files": []
 }
