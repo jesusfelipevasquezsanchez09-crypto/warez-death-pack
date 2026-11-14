@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "changelog": "",
   "files": [
     {
@@ -361,6 +361,186 @@
       "path": "mods/watermedia-3.0.1.jar",
       "url": "https://cdn.modrinth.com/data/G922NeHS/versions/g9a0QPiB/watermedia-3.0.1.jar",
       "sha1": "2547e8cb1f3352267b1cb667aeec42754dbdf101"
+    },
+    {
+      "path": "config/amc.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/amc.json",
+      "sha1": "75dcf8e54ebe013bc76f5556a8be00645710e989"
+    },
+    {
+      "path": "config/betteranimationscollection-client.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/betteranimationscollection-client.toml",
+      "sha1": "3e1ec436b634d50748ff80675f6ae142b1573dd1"
+    },
+    {
+      "path": "config/cardinal-components-api.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/cardinal-components-api.properties",
+      "sha1": "0034d877ec2ea3155efaf54db8549db1e094f003"
+    },
+    {
+      "path": "config/casino_config.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/casino_config.json",
+      "sha1": "487d660a06905b70f9c14bc075538a1279a7d311"
+    },
+    {
+      "path": "config/codxlib.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/codxlib.json",
+      "sha1": "ec08b5d9cedc8ee1b15cc4d2a50a9e0b07dc67c6"
+    },
+    {
+      "path": "config/destroying-minecraft.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/destroying-minecraft.json",
+      "sha1": "340f611d007715ea67a99c2e5ed6686fe5eb8a0e"
+    },
+    {
+      "path": "config/emotecraft.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/emotecraft.json",
+      "sha1": "232087e53ee73c76057117fd846f36ce6b78cf56"
+    },
+    {
+      "path": "config/emotecraft_emote_map.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/emotecraft_emote_map.json",
+      "sha1": "be63473ca7f8286a8827f2e151fff6ce4016ff4d"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/forgeconfigapiport.toml",
+      "sha1": "945e388c4165af7ad3ffa3bfcd89c1f0ccb14451"
+    },
+    {
+      "path": "config/immersive_aircraft.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/immersive_aircraft.json",
+      "sha1": "422aecee36271f897ea6054a7e7f065962a33a78"
+    },
+    {
+      "path": "config/immersive_armors.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/immersive_armors.json",
+      "sha1": "4713be023a32017f1e383213e65d6e6fc380f106"
+    },
+    {
+      "path": "config/immersive-hotbar.json5",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/immersive-hotbar.json5",
+      "sha1": "90f2dcfb92aedbc0cb440057b18be082fa5253ad"
+    },
+    {
+      "path": "config/immersivemessages-client.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/immersivemessages-client.toml",
+      "sha1": "453ea0e3938a8c70f30ff4c60ec6c9ffa8aa7c02"
+    },
+    {
+      "path": "config/jsonem.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/jsonem.properties",
+      "sha1": "8a249b1c38b9581eea3633225bb1ec6c64bd2f20"
+    },
+    {
+      "path": "config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "config/lumiereplay.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/lumiereplay.json",
+      "sha1": "7402bf4ea8c0c9c94f8d1c4125d50cda6a758bc7"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/midnightlib.json",
+      "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/modernfix-mixins.properties",
+      "sha1": "fb6ae226f8a30ad555a3f8f7ff28522a5c8a08bc"
+    },
+    {
+      "path": "config/modmenu.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/modmenu.json",
+      "sha1": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f"
+    },
+    {
+      "path": "config/pointblank-common.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/pointblank-common.toml",
+      "sha1": "2a0c2de837aae947205989fdf9c7a761e7200cb5"
+    },
+    {
+      "path": "config/pointblank-items.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/pointblank-items.toml",
+      "sha1": "aa8ad09964c0ae86168629bf7fd165ff99c636f7"
+    },
+    {
+      "path": "config/pvptoggle.txt",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/pvptoggle.txt",
+      "sha1": "7cb6efb98ba5972a9b5090dc2e517fe14d12cb04"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/sodium-extra-options.json",
+      "sha1": "1a58212e0f224cd2cc0cb27446d13bf7b9b0ed9a"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/sodium-fingerprint.json",
+      "sha1": "02c1a6a4e15501d2163e6001501656b7d273ccc9"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/sodium-options.json",
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
+    },
+    {
+      "path": "config/voxelmap.properties",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/voxelmap.properties",
+      "sha1": "55ca7ce3a0c3aff5ab88563a179ba3ef92e14a70"
+    },
+    {
+      "path": "config/warezdeath_mob_drops.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/warezdeath_mob_drops.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
+      "path": "config/waterconfig.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/waterconfig.toml",
+      "sha1": "cf332c3007cd0a708868dea011847559ea90ead6"
+    },
+    {
+      "path": "config/watermedia.toml",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/watermedia.toml",
+      "sha1": "f4f53e78ca125c1d8cc9cd69116db5ddb80111f9"
+    },
+    {
+      "path": "config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/yacl.json5",
+      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    {
+      "path": "config/action_favorites.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/action_favorites.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/browser_audio_settings.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/browser_audio_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/browser_video_settings.json",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/browser_video_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/last_world.fmdata",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/last_world.fmdata",
+      "sha1": "6d97007cd994385a1082419148d06ef6f82b2b74"
     }
   ]
 }
