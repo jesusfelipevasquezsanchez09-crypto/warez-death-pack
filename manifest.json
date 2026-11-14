@@ -1,5 +1,361 @@
 {
-  "version": "1.0.0",
-  "changelog": "Primera versión",
-  "files": []
+  "version": "1.0.1",
+  "changelog": "",
+  "files": [
+    {
+      "path": "mods/alcocraftplus-1.21.1-2.1.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/alcocraftplus-1.21.1-2.1.2-fabric.jar",
+      "sha1": "9ca445f74df39da12cc47ca90d8102ca3c6b7f84"
+    },
+    {
+      "path": "mods/anunciomod-1.2.2.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/anunciomod-1.2.2.jar",
+      "sha1": "8ae8b1f6da6beeb7c178fbd6f4896fd6c602196b"
+    },
+    {
+      "path": "mods/architectury-13.0.11-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/architectury-13.0.11-fabric.jar",
+      "sha1": "18200609d4c3571c4237b50884966f6fd82431ea"
+    },
+    {
+      "path": "mods/automobility-0.5.0.h+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/automobility-0.5.0.h%2B1.21.1-fabric.jar",
+      "sha1": "e75acfb15ed700ebed1798b5db3fff157ad750bb"
+    },
+    {
+      "path": "mods/BetterAnimationsCollection-v21.1.1-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/BetterAnimationsCollection-v21.1.1-1.21.1-Fabric.jar",
+      "sha1": "7c489bf6f3943db4a76326b7ea87da1f067a779f"
+    },
+    {
+      "path": "mods/brrp-fabric-1.0.4-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/brrp-fabric-1.0.4-1.21.1.jar",
+      "sha1": "da2ac8ced9d62f05f9b93f21549d2f927ae9f4e1"
+    },
+    {
+      "path": "mods/CinematicaWarez-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/CinematicaWarez-1.0.0.jar",
+      "sha1": "fa0be78c7825e724cdb822d140e575f674450727"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/cloth-config-15.0.140-fabric.jar",
+      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
+    },
+    {
+      "path": "mods/common-networking-fabric-1.0.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/common-networking-fabric-1.0.21-1.21.1.jar",
+      "sha1": "2ff48203cec0247792234de3375b5db06ca42fb4"
+    },
+    {
+      "path": "mods/dado_eventos-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/dado_eventos-1.0.0.jar",
+      "sha1": "42e54dd11184813619073290690cf3db231a1ce3"
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.21.1-2.4.12-a.local-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/emotecraft-for-MC1.21.1-2.4.12-a.local-fabric.jar",
+      "sha1": "9a17fc1de1817b9221f87c277f51efc454019b2d"
+    },
+    {
+      "path": "mods/explosioncielo-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/explosioncielo-1.0.0.jar",
+      "sha1": "6d870e9eec81a0cc1ff4bb247cca1479c0cca6d2"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+      "sha1": "62ae40a31b689b52fde399f2143d547a631e942c"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.10_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fancymenu_fabric_3.9.10_MC_1.21.1.jar",
+      "sha1": "fcdc6e518e0c0e7624b41b91fbd1bb36118f8809"
+    },
+    {
+      "path": "mods/fogatadedsafio2-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fogatadedsafio2-1.0.0.jar",
+      "sha1": "ea67537154498030698ca28473ac38ee64207e00"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.7+1.21.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fzzy_config-0.7.7%2B1.21.jar",
+      "sha1": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/geckolib-fabric-1.21.1-4.9.3.jar",
+      "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646"
+    },
+    {
+      "path": "mods/historia-grac-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/historia-grac-1.0.0.jar",
+      "sha1": "c1a8ddd7821c799b7ac42162b99ab1702fbb9481"
+    },
+    {
+      "path": "mods/immersive_aircraft-1.5.2+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/immersive_aircraft-1.5.2%2B1.21.1-fabric.jar",
+      "sha1": "15e4292807f7d411693ee12369e112562cee4c22"
+    },
+    {
+      "path": "mods/immersive_paintings-fabric-1.21.1-0.7.9.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/immersive_paintings-fabric-1.21.1-0.7.9.jar",
+      "sha1": "db3c22af4d03d7318f3e430a5af5c9a20775898e"
+    },
+    {
+      "path": "mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+      "sha1": "b2809b3f433eaa5805e23a7ccb950b71051e2f89"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+      "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
+    },
+    {
+      "path": "mods/LuckPerms-Fabric-5.4.140 (1).jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/LuckPerms-Fabric-5.4.140%20(1).jar",
+      "sha1": "5368c9a12f181eeeae124b70395691780e5cb657"
+    },
+    {
+      "path": "mods/lumiereplay-0.7.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/lumiereplay-0.7.1.jar",
+      "sha1": "588e0c79501b7bda0319dbeebe1806f2501da229"
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/mcw-lights-1.1.5-mc1.21.1fabric.jar",
+      "sha1": "0dacc96b850d57f9d51c232b3c123698f4bc73b3"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
+    },
+    {
+      "path": "mods/modmenu-11.0.5.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/modmenu-11.0.5.jar",
+      "sha1": "2321d890a25b5985eba576d7cd8fe9a9c136e33d"
+    },
+    {
+      "path": "mods/OctoLib-FABRIC-0.6.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/OctoLib-FABRIC-0.6.2%2B1.21.jar",
+      "sha1": "e18bf47209c43d2eff882fd906f2cafd887b7378"
+    },
+    {
+      "path": "mods/optimize-ultra-goodmen-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/optimize-ultra-goodmen-1.0.0.jar",
+      "sha1": "b796897530ae729a85941d9e11eba0cf2116ad2c"
+    },
+    {
+      "path": "mods/Platform-fabric-1.21.1-1.3.3.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/Platform-fabric-1.21.1-1.3.3.jar",
+      "sha1": "b3302ad9158171874d01e863d69c8bf4db8faef9"
+    },
+    {
+      "path": "mods/PlayerAnimationLibFabric-1.1.6+mc.1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/PlayerAnimationLibFabric-1.1.6%2Bmc.1.21.1.jar",
+      "sha1": "f33384448a9d3271b77ba61d658dc90f40949578"
+    },
+    {
+      "path": "mods/proteccionspawn-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/proteccionspawn-1.0.0.jar",
+      "sha1": "98b38b54d47aea79076de3e159bf00bcda215ea6"
+    },
+    {
+      "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/PuzzlesLib-v21.1.60-mc1.21.1-Fabric.jar",
+      "sha1": "c1cd667d699905c0ae6dcad6e2dacaed8fbc1605"
+    },
+    {
+      "path": "mods/recetario-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/recetario-1.0.0.jar",
+      "sha1": "9171829956b48423a1340b8d29a63437e1aa7c80"
+    },
+    {
+      "path": "mods/servercore-fabric-1.5.19+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/servercore-fabric-1.5.19%2B1.21.1.jar",
+      "sha1": "a6982d25211a307416c6c050e41b087306caf6e8"
+    },
+    {
+      "path": "mods/SimplyTooltips-fabric-0.1.5.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/SimplyTooltips-fabric-0.1.5.jar",
+      "sha1": "2eb686991b9ca32fc9498bc05a9fd3b42f0b60a0"
+    },
+    {
+      "path": "mods/sodium-extra-fabric-0.9.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/sodium-extra-fabric-0.9.4%2Bmc1.21.1.jar",
+      "sha1": "628487b330c9589d26cada5c4a51ac457af80a1f"
+    },
+    {
+      "path": "mods/spark-1.10.109-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/spark-1.10.109-fabric.jar",
+      "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1"
+    },
+    {
+      "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/txnilib-fabric-1.0.24-1.21.1.jar",
+      "sha1": "95bd43012b414ce13efaba4b2fbd73dcd8951775"
+    },
+    {
+      "path": "mods/veil-fabric-1.21.1-4.5.2.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/veil-fabric-1.21.1-4.5.2.jar",
+      "sha1": "079ba23fdd5e077ac20581612878a5d9a43ff2f7"
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.1-2.6.22 (1).jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/voicechat-fabric-1.21.1-2.6.22%20(1).jar",
+      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776"
+    },
+    {
+      "path": "mods/warezdeath-menu-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
+      "sha1": "6094616523a42289a9ca0c22efbc72e08dbcf790"
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/worldedit-mod-7.3.8.jar",
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
+    },
+    {
+      "path": "mods/xercafood-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/xercafood-1.21.1-1.0.2.jar",
+      "sha1": "95429b5c2cb55ba1d87cdd811a3098eabb98fcb5"
+    },
+    {
+      "path": "mods/architectury-13.0.6-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/architectury-13.0.6-fabric.jar",
+      "sha1": "82e37f8e83d8feabf53358ff3f38e74db6b2a630"
+    },
+    {
+      "path": "mods/bbmodelskin-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/bbmodelskin-1.1.0.jar",
+      "sha1": "66f9366da0ad7c92e5973b74dac1020daa418568"
+    },
+    {
+      "path": "mods/Chunky-Fabric-1.4.23.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/Chunky-Fabric-1.4.23.jar",
+      "sha1": "6c8098fc0f124c7b6492de60db0108747f7f9821"
+    },
+    {
+      "path": "mods/codxlib-1.6.1-fabric+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/codxlib-1.6.1-fabric%2B1.21.1.jar",
+      "sha1": "08ecdaec563326bb48400fde52235dff8a0e0408"
+    },
+    {
+      "path": "mods/drinkbeer-fabric-1.2.0-fabric.14.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/drinkbeer-fabric-1.2.0-fabric.14.jar",
+      "sha1": "4bf8761b7e6021b3dce42a012f1250380852a719"
+    },
+    {
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fabric-api-0.116.17%2B1.21.1.jar",
+      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c"
+    },
+    {
+      "path": "mods/fiw-anticheat-fabric-1.21.1-2.1.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fiw-anticheat-fabric-1.21.1-2.1.0.jar",
+      "sha1": "8729371fd5d063083f9326eaedf69da7bf240a5e"
+    },
+    {
+      "path": "mods/furnish-29.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/furnish-29.jar",
+      "sha1": "09377c7d12a9db651ca8e688b65a7b16dd369300"
+    },
+    {
+      "path": "mods/grieta-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/grieta-1.0.0.jar",
+      "sha1": "676de83c76bdc90151e4d6cefbfded46788c5d8f"
+    },
+    {
+      "path": "mods/immersive_armors-1.7.6+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/immersive_armors-1.7.6%2B1.21.1-fabric.jar",
+      "sha1": "0e0636fc11a0a58a65ba8a932d51316fe2150f00"
+    },
+    {
+      "path": "mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
+      "sha1": "52d3f869f5ab4836485d9df4a25319d750522ef9"
+    },
+    {
+      "path": "mods/lootbeams-3.6.1-mc1.21-.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/lootbeams-3.6.1-mc1.21-.1.jar",
+      "sha1": "8f30e6a13e19e5f2ce21a71fc7eaf1f728c8781d"
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "sha1": "4c914a4d3bb84103b34346e60c6aa981be8dfa23"
+    },
+    {
+      "path": "mods/mesa.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/mesa.jar",
+      "sha1": "37ce60d4f25b34134db0708201c82ac59eaea8c7"
+    },
+    {
+      "path": "mods/Nirvana Lib-fabric-1.21.1-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/Nirvana%20Lib-fabric-1.21.1-2.2.0.jar",
+      "sha1": "959a759c35d51c904eb82f2574e0f788a479823d"
+    },
+    {
+      "path": "mods/placeholder-api-2.4.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/placeholder-api-2.4.2%2B1.21.jar",
+      "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+    },
+    {
+      "path": "mods/pointblank-fabric-1.21-2.2.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/pointblank-fabric-1.21-2.2.0.jar",
+      "sha1": "e235e0ac5790c14d44d831094be1f3371ba62c0c"
+    },
+    {
+      "path": "mods/pvptoggle-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/pvptoggle-1.0.0.jar",
+      "sha1": "c4e80a7bd25835f461ecf90a50a88bc842341006"
+    },
+    {
+      "path": "mods/ShadowGuard-0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/ShadowGuard-0.0.1.jar",
+      "sha1": "244c88721b613e9829d801e02b21ae2768a1651c"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1"
+    },
+    {
+      "path": "mods/vccontrol-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/vccontrol-1.0.0.jar",
+      "sha1": "c024f1d8945413fa6465f56436db677922eeaeb6"
+    },
+    {
+      "path": "mods/voicenpc-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/voicenpc-1.0.0.jar",
+      "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686"
+    },
+    {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/watermedia-3.0.0.23.jar",
+      "sha1": "a644ab079cc9ed19a62b181e0252be5a9a422166"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+    }
+  ]
 }
