@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": "",
   "files": [
     {
@@ -348,19 +348,9 @@
       "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686"
     },
     {
-      "path": "mods/watermedia-3.0.0.23.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/watermedia-3.0.0.23.jar",
-      "sha1": "a644ab079cc9ed19a62b181e0252be5a9a422166"
-    },
-    {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
       "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
-    },
-    {
-      "path": "mods/watermedia-binaries",
-      "url": "https://modrinth.com/mod/watermedia-binaries?loader=fabric&version=1.21.1#download",
-      "sha1": ""
     }
   ]
 }
