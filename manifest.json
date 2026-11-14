@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "changelog": "",
   "files": [
     {
@@ -96,11 +96,6 @@
       "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
       "sha1": "62ae40a31b689b52fde399f2143d547a631e942c"
-    },
-    {
-      "path": "mods/fancymenu_fabric_3.9.10_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fancymenu_fabric_3.9.10_MC_1.21.1.jar",
-      "sha1": "fcdc6e518e0c0e7624b41b91fbd1bb36118f8809"
     },
     {
       "path": "mods/fiw-anticheat-fabric-1.21.1-2.1.0.jar",
@@ -353,16 +348,6 @@
       "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
     },
     {
-      "path": "mods/watermedia_binaries-3.0.1.jar",
-      "url": "https://cdn.modrinth.com/data/4997XcoK/versions/HTKcN2sw/watermedia_binaries-3.0.1.jar",
-      "sha1": "f9b55e50abeb36eea847a3cb448637d621cd9979"
-    },
-    {
-      "path": "mods/watermedia-3.0.1.jar",
-      "url": "https://cdn.modrinth.com/data/G922NeHS/versions/g9a0QPiB/watermedia-3.0.1.jar",
-      "sha1": "2547e8cb1f3352267b1cb667aeec42754dbdf101"
-    },
-    {
       "path": "config/amc.json",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/amc.json",
       "sha1": "75dcf8e54ebe013bc76f5556a8be00645710e989"
@@ -541,6 +526,11 @@
       "path": "config/last_world.fmdata",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/config/last_world.fmdata",
       "sha1": "6d97007cd994385a1082419148d06ef6f82b2b74"
+    },
+    {
+      "path": "mods/warezdeath_title-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath_title-1.0.0.jar",
+      "sha1": "c764d7b3930295301b81dd83be5bb80e9b6220e9"
     }
   ]
 }
