@@ -1,0 +1,36 @@
+{
+  "screen": {
+    "bezel_size": 0.06,
+    "glow_tint": true
+  },
+  "audio": {
+    "volume": 100,
+    "max_distance": 64.0
+  },
+  "lazy": {
+    "pause_distance": 96,
+    "pause_distance_sq": 9216.0
+  },
+  "network": {
+    "proxy": "",
+    "vlc_args": [],
+    "ytdlp_args": []
+  },
+  "history": {
+    "urls": [
+      "https://youtu.be/M-3lT5TKKxE",
+      "https://youtu.be/l0H-YaOaIIY",
+      "https://www.youtube.com/watch?v\u003diUc4dLH9M6U",
+      "https://www.youtube.com/watch?v\u003dYs7-6_t7OEQ\u0026list\u003dRDYs7-6_t7OEQ\u0026start_radio\u003d1"
+    ],
+    "max_entries": 5
+  },
+  "sync": {
+    "enabled": true,
+    "threshold_ms": 1500,
+    "check_interval_ms": 5000,
+    "grace_ms": 4000,
+    "max_step_ms": 30000,
+    "jump_on_join": false
+  }
+}
