@@ -1,0 +1,6 @@
+{
+  "shaderType": "CRACKS",
+  "enableDepthOfField": false,
+  "blurStrength": 1.0,
+  "autoFocusTime": 0.8
+}
