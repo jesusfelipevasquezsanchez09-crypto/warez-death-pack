@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "changelog": "WAREZDEAHT EN 5 HORAS ",
+  "version": "1.0.13",
+  "changelog": "INICIO DEL WAREZDEAHT",
   "files": [
     {
       "path": "mods/warezdeath_title-1.0.0.jar",
@@ -63,11 +63,6 @@
       "sha1": "2ff48203cec0247792234de3375b5db06ca42fb4"
     },
     {
-      "path": "mods/dado_eventos-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/dado_eventos-1.0.0.jar",
-      "sha1": "42e54dd11184813619073290690cf3db231a1ce3"
-    },
-    {
       "path": "mods/drinkbeer-fabric-1.2.0-fabric.14.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/drinkbeer-fabric-1.2.0-fabric.14.jar",
       "sha1": "4bf8761b7e6021b3dce42a012f1250380852a719"
@@ -81,11 +76,6 @@
       "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
       "sha1": "62ae40a31b689b52fde399f2143d547a631e942c"
-    },
-    {
-      "path": "mods/fancymenu_fabric_3.9.10_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fancymenu_fabric_3.9.10_MC_1.21.1.jar",
-      "sha1": "fcdc6e518e0c0e7624b41b91fbd1bb36118f8809"
     },
     {
       "path": "mods/fiw-anticheat-fabric-1.21.1-2.1.0.jar",
@@ -218,11 +208,6 @@
       "sha1": "e18bf47209c43d2eff882fd906f2cafd887b7378"
     },
     {
-      "path": "mods/optimize-ultra-goodmen-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/optimize-ultra-goodmen-1.0.0.jar",
-      "sha1": "b796897530ae729a85941d9e11eba0cf2116ad2c"
-    },
-    {
       "path": "mods/placeholder-api-2.4.2+1.21.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/placeholder-api-2.4.2%2B1.21.jar",
       "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
@@ -318,11 +303,6 @@
       "sha1": "2ad14aed781c4a73ed4dbb421966d408a0a06686"
     },
     {
-      "path": "mods/warezdeath-menu-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
-      "sha1": "09daf0f3d15daff7563bd9d1b3e1546c5a2071cb"
-    },
-    {
       "path": "mods/worldedit-mod-7.3.8.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/worldedit-mod-7.3.8.jar",
       "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
@@ -336,6 +316,21 @@
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
       "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+    },
+    {
+      "path": "mods/cpmskin-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/cpmskin-1.1.0.jar",
+      "sha1": "ea8e2f318de69e567446148f6bca069fb761aa97"
+    },
+    {
+      "path": "mods/dado_eventos-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/dado_eventos-1.0.0.jar",
+      "sha1": "a38de670ff81157414b1b8631c3f45ee779fb50b"
+    },
+    {
+      "path": "mods/warezdeath-menu-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
+      "sha1": "c23716c21a039e4f9f0ed969a5dbe4adadda0d69"
     }
   ]
 }
