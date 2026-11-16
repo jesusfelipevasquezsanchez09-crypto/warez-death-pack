@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "changelog": "WAREZDEAHT DIA 2",
+  "version": "1.0.16",
+  "changelog": "",
   "files": [
     {
       "path": "mods/warezdeath_title-1.0.0.jar",
@@ -340,7 +340,7 @@
     {
       "path": "mods/warezdeath-menu-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
-      "sha1": "26a706cf88e76e27846777997ddc80b10d86e50b"
+      "sha1": "af4cc348af45386938d4f5b217fed67fa0d8f1a4"
     }
   ]
 }
