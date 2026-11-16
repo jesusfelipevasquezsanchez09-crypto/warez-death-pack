@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "changelog": "INICIO DEL WAREZDEAHT",
+  "version": "1.0.14",
+  "changelog": "",
   "files": [
     {
       "path": "mods/warezdeath_title-1.0.0.jar",
@@ -223,11 +223,6 @@
       "sha1": "f33384448a9d3271b77ba61d658dc90f40949578"
     },
     {
-      "path": "mods/pointblank-fabric-1.21-2.2.0.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/pointblank-fabric-1.21-2.2.0.jar",
-      "sha1": "e235e0ac5790c14d44d831094be1f3371ba62c0c"
-    },
-    {
       "path": "mods/proteccionspawn-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/proteccionspawn-1.0.0.jar",
       "sha1": "98b38b54d47aea79076de3e159bf00bcda215ea6"
@@ -328,9 +323,24 @@
       "sha1": "a38de670ff81157414b1b8631c3f45ee779fb50b"
     },
     {
+      "path": "mods/showthelyrics-2.1.2-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/showthelyrics-2.1.2-1.21.1.jar",
+      "sha1": "ad7faaabda21b2c2b423276db3b6f5062b96b34d"
+    },
+    {
+      "path": "mods/voxelmap-1.21-1.13.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/voxelmap-1.21-1.13.1.jar",
+      "sha1": "00eb958ea97b17976e5e14d9716a291115a20501"
+    },
+    {
       "path": "mods/warezdeath-menu-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
-      "sha1": "c23716c21a039e4f9f0ed969a5dbe4adadda0d69"
+      "sha1": "beca659977435ccb358ec559d322de4c9aa5b90d"
+    },
+    {
+      "path": "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
+      "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703"
     }
   ]
 }
