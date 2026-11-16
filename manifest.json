@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "changelog": "",
+  "version": "1.0.15",
+  "changelog": "WAREZDEAHT DIA 2",
   "files": [
     {
       "path": "mods/warezdeath_title-1.0.0.jar",
@@ -333,14 +333,14 @@
       "sha1": "00eb958ea97b17976e5e14d9716a291115a20501"
     },
     {
-      "path": "mods/warezdeath-menu-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
-      "sha1": "beca659977435ccb358ec559d322de4c9aa5b90d"
-    },
-    {
       "path": "mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/CustomPlayerModels-Fabric-1.21-0.6.27a.jar",
       "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703"
+    },
+    {
+      "path": "mods/warezdeath-menu-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
+      "sha1": "26a706cf88e76e27846777997ddc80b10d86e50b"
     }
   ]
 }
