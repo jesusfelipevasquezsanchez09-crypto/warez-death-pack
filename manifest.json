@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "changelog": "",
   "files": [
     {
@@ -340,7 +340,7 @@
     {
       "path": "mods/warezdeath-menu-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/warezdeath-menu-1.0.0.jar",
-      "sha1": "af4cc348af45386938d4f5b217fed67fa0d8f1a4"
+      "sha1": "45a70ae18ca23ebdfa333eb5d72b1b857dd95f93"
     }
   ]
 }
