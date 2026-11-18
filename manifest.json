@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "changelog": "",
   "files": [
     {
@@ -345,7 +345,7 @@
     {
       "path": "mods/boxeo-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/boxeo-1.0.0.jar",
-      "sha1": "f60b59e01afe46d2394b0a48e1919454395eaa4a"
+      "sha1": "cd523e354ef39938379b60dede483d5196811550"
     }
   ]
 }
