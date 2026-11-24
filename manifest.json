@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "changelog": "",
   "files": [
     {
@@ -341,6 +341,16 @@
       "path": "mods/fullmap-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fullmap-1.0.0.jar",
       "sha1": "bbf6759032d28609d9b8edefd29823b2c3839cbc"
+    },
+    {
+      "path": "mods/dificultades-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/dificultades-1.0.0.jar",
+      "sha1": "d670fd9b05013262370254215a1e18a3b4006ae7"
+    },
+    {
+      "path": "mods/newitems-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/newitems-1.0.0.jar",
+      "sha1": "9598e06b2bff925a2fdb8be1c8892e126583f90b"
     }
   ]
 }
