@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "changelog": "",
   "files": [
     {
@@ -31,11 +31,6 @@
       "path": "mods/BetterAnimationsCollection-v21.1.1-1.21.1-Fabric.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/BetterAnimationsCollection-v21.1.1-1.21.1-Fabric.jar",
       "sha1": "7c489bf6f3943db4a76326b7ea87da1f067a779f"
-    },
-    {
-      "path": "mods/brrp-fabric-1.0.4-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/brrp-fabric-1.0.4-1.21.1.jar",
-      "sha1": "da2ac8ced9d62f05f9b93f21549d2f927ae9f4e1"
     },
     {
       "path": "mods/Chunky-Fabric-1.4.23.jar",
@@ -361,6 +356,21 @@
       "path": "mods/BagOfHolding-v21.1.2-1.21.1-Fabric.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/BagOfHolding-v21.1.2-1.21.1-Fabric.jar",
       "sha1": "1dba8ad4e179e037845fa15e741ca6ad0fc116b1"
+    },
+    {
+      "path": "mods/brrp-fabric-1.0.4-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/brrp-fabric-1.0.4-1.21.1.jar",
+      "sha1": "da2ac8ced9d62f05f9b93f21549d2f927ae9f4e1"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.4.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/geckolib-fabric-1.21.1-4.9.4.jar",
+      "sha1": "271f0b43368baf7d72e720b8a553139b5293a31e"
+    },
+    {
+      "path": "mods/morpher-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/morpher-1.1.5.jar",
+      "sha1": "b3d60a7ef18db96e1ec73d798bad5612f95981e4"
     }
   ]
 }
