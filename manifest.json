@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "changelog": "",
   "files": [
     {
@@ -86,11 +86,6 @@
       "path": "mods/fogatadedsafio2-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fogatadedsafio2-1.0.0.jar",
       "sha1": "ea67537154498030698ca28473ac38ee64207e00"
-    },
-    {
-      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
     },
     {
       "path": "mods/furnish-29.jar",
@@ -351,6 +346,21 @@
       "path": "mods/newitems-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/newitems-1.0.0.jar",
       "sha1": "9598e06b2bff925a2fdb8be1c8892e126583f90b"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+    },
+    {
+      "path": "mods/puzzleslib-v21.1.66-mc1.21.1+fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/puzzleslib-v21.1.66-mc1.21.1%2Bfabric.jar",
+      "sha1": "fc946af8992dbf77a1de98b2e9fbdb72071b495c"
+    },
+    {
+      "path": "mods/BagOfHolding-v21.1.2-1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/BagOfHolding-v21.1.2-1.21.1-Fabric.jar",
+      "sha1": "1dba8ad4e179e037845fa15e741ca6ad0fc116b1"
     }
   ]
 }
