@@ -1,5 +1,5 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "changelog": "",
   "files": [
     {
@@ -371,6 +371,11 @@
       "path": "mods/morpher-1.1.5.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/morpher-1.1.5.jar",
       "sha1": "b3d60a7ef18db96e1ec73d798bad5612f95981e4"
+    },
+    {
+      "path": "mods/octarion-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/octarion-1.0.0.jar",
+      "sha1": "9d80acd22ad3ef46b165665b7577b77b479dd9e7"
     }
   ]
 }
