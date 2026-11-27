@@ -1,5 +1,5 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "changelog": "",
   "files": [
     {
@@ -376,6 +376,16 @@
       "path": "mods/octarion-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/octarion-1.0.0.jar",
       "sha1": "9d80acd22ad3ef46b165665b7577b77b479dd9e7"
+    },
+    {
+      "path": "mods/venta-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/venta-1.0.0.jar",
+      "sha1": "5f8b21f9e2556496f26d61cab7e592ec07b572c7"
+    },
+    {
+      "path": "mods/gargantua-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/gargantua-1.8.2.jar",
+      "sha1": "fd62859540a6b5124376e8a563f2c139714f3a6e"
     }
   ]
 }
