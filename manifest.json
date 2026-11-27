@@ -1,5 +1,5 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.36",
   "changelog": "",
   "files": [
     {
@@ -385,7 +385,7 @@
     {
       "path": "mods/dificultades-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/dificultades-1.0.0.jar",
-      "sha1": "f358f5029a861dc915cfa00c9966cb7604e8362d"
+      "sha1": "cfabfc7187ca581d02a31587053f8e0ca729a90e"
     }
   ]
 }
