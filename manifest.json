@@ -1,5 +1,5 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.39",
   "changelog": "",
   "files": [
     {
@@ -323,11 +323,6 @@
       "sha1": "bce6c7865559b357d740f0fbcc123998db2dd574"
     },
     {
-      "path": "mods/boxeo-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/boxeo-1.0.0.jar",
-      "sha1": "11a1f1dab7f2c8ac6372beba16dbfa21814d066f"
-    },
-    {
       "path": "mods/fullmap-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/fullmap-1.0.0.jar",
       "sha1": "bbf6759032d28609d9b8edefd29823b2c3839cbc"
@@ -383,9 +378,14 @@
       "sha1": "fd62859540a6b5124376e8a563f2c139714f3a6e"
     },
     {
+      "path": "mods/boxeo-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/boxeo-1.0.0.jar",
+      "sha1": "988c967e06a29805cca992afd24db26a372d3452"
+    },
+    {
       "path": "mods/dificultades-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/jesusfelipevasquezsanchez09-crypto/warez-death-pack/main/pack/mods/dificultades-1.0.0.jar",
-      "sha1": "cfabfc7187ca581d02a31587053f8e0ca729a90e"
+      "sha1": "2f07e2c6c8e5545debb90f0eb8425c342dedf139"
     }
   ]
 }
